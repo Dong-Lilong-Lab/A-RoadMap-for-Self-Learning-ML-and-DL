@@ -9,13 +9,7 @@ This repository contains the info on self-learning linux, python, machine learni
 
 I highly recommend these three books for beginners who have no prior experience with Python or coding. These books introduce the fundamentals of Python through hands-on projects, making the learning process practical and engaging. I strongly suggest that learners type out the example code from the book themselves rather than simply copying and pasting it, as this reinforces understanding. As a starting point, I recommend reading **Python Crash Course** by **Eric Matthes**, which provides a well-structured and comprehensive introduction to the Python language. Afterward, you can explore projects from the other two books that pique your interest.
 
-1. **Python Crash Course** by **Eric Matthes**   
-
-There is a free 
-
-
-
-
+1. **Python Crash Course** by **Eric Matthes**  
 There is an available and free [online version of the book](http://ehmatthes.github.io/pcc/cheatsheets/README.html)available for access.      
 You can also purchase the paperback edition from [Amazon]() or find the Chinese version on [jd.com]()   
 
